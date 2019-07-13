@@ -1,0 +1,130 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+@charset "UTF-8";
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol,
+ul {
+    list-style: none;
+}
+blockquote,
+q {
+    quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+html{height:100%;font-size:20px}body{font-family:'Noto Sans TC', Meiryo, Sans-serif, Arial, PingFangTC, 'Microsoft JhengHei';font-weight:300;color:#000;height:100%;min-width:320px;background-color:#f0f0f0;font-size:1rem}a{color:#000000;text-decoration:none}a:hover{color:#888}img{max-width:100%}.app{position:relative;padding:10px 0}.games{position:relative;margin:0 auto;padding:10px;column-count:9;column-gap:5px}.card{position:relative;display:inline-block;background-color:#fff;border:1px solid #ccc;padding:5px;margin-bottom:5px;text-align:center}.card .name{font-size:1em;line-height:1.2em;word-break:break-all}.card .desc{font-size:0.75em;line-height:1em;margin-top:3px;color:#666;word-break:break-all;letter-spacing:-1px}.card .player{position:absolute;top:10px;left:10px;font-size:0.5em;z-index:1;color:#fff;background-color:#fff;background-color:rgba(64,64,64,0.8);border-radius:10px;padding:2px 8px}.card .thumbnail{position:relative}.card .thumbnail.loading{padding:25px 0;height:100px;background-color:#eee}.filterBtns{text-align:center}.filterBtns div{display:inline-block;text-align:center;background-color:#6b788c;color:#fff;padding:0 10px;box-shadow:0 0 3px 2px rgba(199,199,199,0.3);cursor:pointer;margin-top:5px;margin-left:5px;letter-spacing:-1px;line-height:1.5em;border-radius:5px;-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.filterBtns div:first-child{margin-left:0}.filterBtns div.enabled{background-color:#2b384c}@media screen and (max-width: 1968px){.games{column-count:8}}@media screen and (max-width: 1751px){.games{column-count:7}}@media screen and (max-width: 1534px){.games{column-count:6}}@media screen and (max-width: 1317px){.games{column-count:5}}@media screen and (max-width: 1100px){.games{column-count:4}}@media screen and (max-width: 883px){.games{column-count:3}}@media screen and (max-width: 666px){.games{column-count:2}}@media screen and (max-width: 444px){.games{column-gap:2px}.card{padding:2px;margin-bottom:2px;text-align:center}.card .name{line-height:1.2em}}strong{font-weight:500}
+
+.comp-loading{width:100%;min-height:500px;background-image:url(../images/loading_5a3e1714.svg);background-size:200px 200px;background-position:center center;background-repeat:no-repeat}.comp-loading.size_s{min-height:300px}
+
